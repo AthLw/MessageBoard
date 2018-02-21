@@ -1,0 +1,36 @@
+html,body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #c8c8c8;
+}
+
+* {
+    text-align: center;
+}
+
+#msgtitle {
+    background-color: red;
+}
+
+#messages {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#user-info {
+    width: 150px;
+}
+
+
+#messagecontent {
+    width: 500px;
+    text-align: left;
+    text-indent: 2em;
+}
+
+#push-time {
+    color: #779;
+    position: relative;
+    left: 200px;
+    top: 0;
+}
