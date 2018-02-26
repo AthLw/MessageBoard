@@ -34,3 +34,26 @@ html,body {
     left: 200px;
     top: 0;
 }
+
+[name=temp-message] {
+    width: 800px;
+    height: 250px;
+}
+
+[value=发布] {
+    width: 250px;
+    height: 100px;
+}
+
+#pushmessage {
+    position: fixed;
+    bottom: 0px;
+    margin: auto;
+    width: 1800px;
+}
+
+#to-be-sent-message {
+    width: 1300px;
+    margin: auto;
+    padding: auto;
+}
